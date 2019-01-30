@@ -2,6 +2,12 @@
   "name": "vuetify-snackbar",
   "version": "0.1.0",
   "main": "vuetify-snackbar.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fyroman/vuetify-snackbar.git"
+  },
+  "author": "Fyroman",
+  "license": "MIT",
   "dependencies": {
     
   },
