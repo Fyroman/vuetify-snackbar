@@ -1,0 +1,11 @@
+{
+  "name": "vuetify-snackbar",
+  "version": "0.1.0",
+  "main": "vuetify-snackbar.js",
+  "dependencies": {
+    
+  },
+  "peerDependecies": {
+    "vue": "^2.0.0"
+  }
+}
